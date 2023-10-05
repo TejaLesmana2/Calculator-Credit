@@ -11,4 +11,4 @@ var hasil1 = hbNum + (hbNum * 9) / 100;
 var hasil2 = (hasil1 * 100) / 71 - dpNum;
 var hasil3 = hasil2 + (hasil2 * sbNum) / 100;
 var hasilAkhir = hasil3 / tnNum;
-alert(hasilAkhir);
+alert(hasilAkhir + ' ' + 'X' + ' ' + tnNum + ' ' + 'Bulan');
